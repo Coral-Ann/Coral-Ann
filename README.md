@@ -45,3 +45,12 @@ Languages and Tools
   <img src="https://img.shields.io/badge/-Illustrator-ED9A47?style=for-the-badge&logo=adobe-illustrator&logoColor=ED9A47&labelColor=282828">
 </div>
 </p>
+
+Projects
+-------
+
+| Name                         | Description       | Timeframe | Tech/tools        |
+| ---------------------------- | ----------------- | ----------- | ----------------- |
+| [**Seedle**](https://github.com/rupertpople/seedle) | A website that locates birds and plants near you. | 10 days | Javascript, React, NodeJS, Github Actions, HTML, CSS, Heroku |
+| [**Acebook**](https://github.com/Conor-Developer/acebook-metaperverse)  | An experimental facebook clone. | 10 days |  JavaScript, HTML, CSS, Handlebars, Heroku, Mongoose, Github Actions (CI/CD), MongoDB |
+| [**Bank Test**](https://github.com/Coral-Ann/bank-test) | A quick and simple bank simulator. | 2 days | Ruby, irb, rspec, Rubocop, Simplecov |
