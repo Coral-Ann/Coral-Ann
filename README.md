@@ -16,7 +16,7 @@ Imaginative and motivated Junior Developer capable of producing quality, test-dr
 
 - 🔭 I’m currently studying the [Odin Project](https://www.theodinproject.com/).
 - 🌱 I’m working on my Javascript.
-- 👯 I’m pair programming with [Ruzeka Udin](https://github.com/R552-beep) and Bryan F.Olsen on different projects.
+- 👯 I’m pair programming with [Ruzeka Uddin](https://github.com/R552-beep) and Bryan F.Olsen on different projects.
 - ⚡ Fun fact: I'm an illustrator!
 
 
