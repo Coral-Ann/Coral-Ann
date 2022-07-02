@@ -15,8 +15,8 @@ About Me
 Imaginative and motivated Junior Developer capable of producing quality, test-driven code, interested in all aspects of software development! A background in art and design has given me invaluable divergent thinking and a meticulous approach to all of my projects.
 
 - 🔭 I’m currently studying the [Odin Project](https://www.theodinproject.com/).
-- 🌱 I’m working on my Javascript.
-- 👯 I’m pair programming with [Ruzeka Uddin](https://github.com/R552-beep) and Bryan F.Olsen on different projects.
+- 🌱 I’m working on React best practices.
+- 👯 I’m pair programming with [Ruzeka Uddin](https://github.com/R552-beep) and Bryan F. Olsen on different projects.
 - ⚡ Fun fact: I'm an illustrator!
 
 
